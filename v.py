@@ -7,6 +7,7 @@ except:
     os.system("pip install colorama")
     os.system("pip install prettytable")
     os.system("pip install terminaltables")
+    os.system("pip install pystyle")
 import threading, requests, ctypes, random, json, time, base64, sys, re
 from prettytable import PrettyTable
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System

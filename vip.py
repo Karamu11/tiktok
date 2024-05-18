@@ -1,1 +1,1 @@
-print('Tool die vì ko tiền nâng cấp')
+print('Tool ko còn')
